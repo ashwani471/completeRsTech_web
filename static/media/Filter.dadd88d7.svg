@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="Group_397" data-name="Group 397" transform="translate(-1057 -187)">
+    <g id="Ellipse_124" data-name="Ellipse 124" transform="translate(1057 187)" fill="#fff" stroke="#c7c7c7" stroke-width="1">
+      <circle cx="32" cy="32" r="32" stroke="none"/>
+      <circle cx="32" cy="32" r="31.5" fill="none"/>
+    </g>
+    <path id="Icon_awesome-filter" data-name="Icon awesome-filter" d="M21.864,0H1.077a1.076,1.076,0,0,0-.76,1.836L8.6,10.123v9.232a1.075,1.075,0,0,0,.459.881l3.584,2.508a1.076,1.076,0,0,0,1.692-.881V10.123l8.287-8.288A1.076,1.076,0,0,0,21.864,0Z" transform="translate(1077.53 207.53)" fill="#c7c7c7"/>
+  </g>
+</svg>

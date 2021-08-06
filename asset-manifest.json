@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/completeRsTech_web/static/css/main.9eadd453.chunk.css",
+    "main.js": "/completeRsTech_web/static/js/main.51912655.chunk.js",
+    "main.js.map": "/completeRsTech_web/static/js/main.51912655.chunk.js.map",
+    "runtime-main.js": "/completeRsTech_web/static/js/runtime-main.caafcfd7.js",
+    "runtime-main.js.map": "/completeRsTech_web/static/js/runtime-main.caafcfd7.js.map",
+    "static/js/2.ea242ca2.chunk.js": "/completeRsTech_web/static/js/2.ea242ca2.chunk.js",
+    "static/js/2.ea242ca2.chunk.js.map": "/completeRsTech_web/static/js/2.ea242ca2.chunk.js.map",
+    "index.html": "/completeRsTech_web/index.html",
+    "static/css/main.9eadd453.chunk.css.map": "/completeRsTech_web/static/css/main.9eadd453.chunk.css.map",
+    "static/js/2.ea242ca2.chunk.js.LICENSE.txt": "/completeRsTech_web/static/js/2.ea242ca2.chunk.js.LICENSE.txt",
+    "static/media/Ascend.1a5fb8b4.svg": "/completeRsTech_web/static/media/Ascend.1a5fb8b4.svg",
+    "static/media/Filter.dadd88d7.svg": "/completeRsTech_web/static/media/Filter.dadd88d7.svg",
+    "static/media/download.1c949177.png": "/completeRsTech_web/static/media/download.1c949177.png",
+    "static/media/handwave.1e804c79.png": "/completeRsTech_web/static/media/handwave.1e804c79.png",
+    "static/media/ic-no-region.615ab9c5.svg": "/completeRsTech_web/static/media/ic-no-region.615ab9c5.svg",
+    "static/media/ic-notification.25953caf.svg": "/completeRsTech_web/static/media/ic-notification.25953caf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caafcfd7.js",
+    "static/js/2.ea242ca2.chunk.js",
+    "static/css/main.9eadd453.chunk.css",
+    "static/js/main.51912655.chunk.js"
+  ]
+}
