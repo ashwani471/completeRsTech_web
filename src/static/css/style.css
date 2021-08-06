@@ -1,0 +1,266 @@
+#bolds {
+  font-weight: bolder;
+}
+
+main {
+  display: flex;
+  position: relative;
+}
+/* rightDiv */
+#rightDiv {
+  /* display: flex; */
+  width: 40%;
+  height: 100vh;
+  background-color: #c9e8ff;
+  /* padding: 10px; */
+}
+
+#rightDiv h1 {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+#rightDiv p {
+  margin-top: 50px;
+  padding-top: 0px;
+  margin-left: 20px;
+}
+/* phone_detail_tab */
+
+.PhoneDetail {
+  border: 2px solid white;
+  display: flex;
+  height: 53px;
+  width: 600px;
+  background-color: #edf0f2;
+  border-radius: 6px;
+}
+.PhoneDetail img {
+  /* color:green; */
+  /* padding-top: 10px; */
+  height: 26px;
+  /* outline: black; */
+  padding-left: 25px;
+  font-size: 22px;
+  padding-top: 13px;
+}
+input:focus {
+  outline: none;
+}
+
+#inputNum {
+  border: none;
+  background-color: transparent;
+  margin-left: 40px;
+  width: 400px;
+  height: 35px;
+  border-left: 2px solid grey;
+  margin: auto;
+  margin-left: 30px;
+}
+
+/* send_otp_btn */
+
+#sendOtp {
+  background-color: #008bf6;
+  color: white;
+  height: 53px;
+  font-size: 17px;
+  width: 600px;
+  margin-top: 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  border: none;
+}
+
+#rightArrow {
+  color: #edf0f2;
+  padding: 12px;
+  transform: scale(2, 1);
+}
+
+.fa {
+  transform: scale(1.5, 1);
+}
+
+/* sign_up_btn */
+
+#signUp {
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+  color: #3a7dcf;
+  font-weight: bold;
+}
+
+/* leftDiv */
+
+#leftDiv {
+  /* position: relative; */
+  margin-top: 150px;
+  /* right: 20px; */
+  margin-left: 150px;
+  /* align-items: center; */
+  width: 60%;
+}
+
+/* form7 */
+
+#boxes {
+  display: flex;
+  /* position: relative; */
+}
+
+.box {
+  width: 50px;
+  height: 50px;
+  /* position: absolute; */
+  background-color: #edf0f2;
+  border: none;
+  margin: 20px;
+  margin-right: 20px;
+  border-radius: 5px;
+
+  /* display: inline-block; */
+  list-style-type: none;
+}
+
+.number {
+  font-weight: bold;
+}
+
+.handleinput {
+  height: 45px;
+  width: 45px;
+  border: none;
+  background: transparent;
+  font-size: x-large;
+}
+
+.cirTick {
+  /* height: 50px; */
+  font-size: 50px;
+  /* width: 50px; */
+  color: white;
+  background-color: #3a7dcf;
+}
+
+/* form10 */
+#heading {
+  display: flex;
+  width: 100vw;
+  /* background-color: #c9e8ff; */
+  height: 100%;
+  /* border: 2px solid red; */
+  position: relative;
+}
+#imgDiv {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  background-color: blanchedalmond;
+  left: 50px;
+  top: 30px;
+  position: relative;
+}
+#back {
+  position: relative;
+  left: 120px;
+  top: 60px;
+}
+/* #back i{
+
+  left: 30px;
+} */
+
+#bell {
+  position: absolute;
+  right: 320px;
+  top: 42px;
+  height: 30px;
+}
+#profile {
+  border: 2px solid #008bf6;
+  border-radius: 5px;
+  width: 130px;
+  height: 30px;
+  text-align: center;
+  vertical-align: middle;
+  position: absolute;
+  right: 140px;
+  top: 30px;
+  padding: 6px;
+  /* word-spacing: 10px; */
+}
+#rightArw {
+  position: relative;
+  left: 5px;
+}
+#myProf {
+  margin-left: 10px;
+  color: #008bf6;
+  padding-right: 4px;
+}
+#bth {
+  margin-left: 10px;
+}
+#dear {
+  position: relative;
+  top: 150px;
+  left: -170px;
+  padding: 0px;
+}
+#para {
+  margin-top: -20px;
+}
+
+#dCus {
+  margin-left: 80px;
+  margin-top: 38px;
+}
+
+#number {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: #008bf6;
+  font-size: 20px;
+  color: white;
+  padding-top: 7px;
+  padding-left: 15px;
+  /* text-align: center; */
+  /* padding: 20px; */
+}
+
+#arrow {
+  position: relative;
+  /* right: -154px; */
+  left: 650px;
+  font-size: 20px;
+}
+
+/* components-form */
+#form {
+  height: 80vh;
+  width: 60%;
+  border: 2px solid black;
+  /* text-align: center; */
+}
+
+.inputHeading {
+  left: 50px;
+  position: relative;
+  /* padding: 30px; */
+  margin: 30px;
+  width: 500px;
+}
+
+.inputHeading div {
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+
+.inputHeading div input {
+  border: none;
+}
